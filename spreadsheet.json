@@ -1,0 +1,10 @@
+{
+    "prices": [
+        {
+            "city": "Paris",
+            "iataCode": "PAR",
+            "lowestPrice": 54,
+            "id": 2
+        }
+    ]
+}

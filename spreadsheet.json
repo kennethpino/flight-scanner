@@ -1,58 +1,59 @@
 {
-    "prices": [
+    "results": [
         {
-            "city": "Paris",
-            "iataCode": "PAR",
-            "lowestPrice": 54,
-            "id": 2
+            "City": "Paris",
+            "IATA Code": "PAR",
+            "Lowest Price": "20",
+            "rowIndex": 2
         },
         {
-            "city": "Berlin",
-            "iataCode": "BER",
-            "lowestPrice": 42,
-            "id": 3
+            "City": "Berlin",
+            "IATA Code": "BER",
+            "Lowest Price": "20",
+            "rowIndex": 3
         },
         {
-            "city": "Tokyo",
-            "iataCode": "TYO",
-            "lowestPrice": 485,
-            "id": 4
+            "City": "Tokyo",
+            "IATA Code": "TYO",
+            "Lowest Price": "300",
+            "rowIndex": 4
         },
         {
-            "city": "Sydney",
-            "iataCode": "SYD",
-            "lowestPrice": 551,
-            "id": 5
+            "City": "Sydney",
+            "IATA Code": "SYD",
+            "Lowest Price": "400",
+            "rowIndex": 5
         },
         {
-            "city": "Istanbul",
-            "iataCode": "IST",
-            "lowestPrice": 95,
-            "id": 6
+            "City": "Istanbul",
+            "IATA Code": "IST",
+            "Lowest Price": "50",
+            "rowIndex": 6
         },
         {
-            "city": "Kuala Lumpur",
-            "iataCode": "KUL",
-            "lowestPrice": 414,
-            "id": 7
+            "City": "Kuala Lumpur",
+            "IATA Code": "KUL",
+            "Lowest Price": "300",
+            "rowIndex": 7
         },
         {
-            "city": "New York",
-            "iataCode": "NYC",
-            "lowestPrice": 240,
-            "id": 8
+            "City": "New York",
+            "IATA Code": "NYC",
+            "Lowest Price": "200",
+            "rowIndex": 8
         },
         {
-            "city": "San Francisco",
-            "iataCode": "SFO",
-            "lowestPrice": 260,
-            "id": 9
+            "City": "San Francisco",
+            "IATA Code": "SFO",
+            "Lowest Price": "200",
+            "rowIndex": 9
         },
         {
-            "city": "Cape Town",
-            "iataCode": "CPT",
-            "lowestPrice": 378,
-            "id": 10
+            "City": "Cape Town",
+            "IATA Code": "CPT",
+            "Lowest Price": "300",
+            "rowIndex": 10
         }
-    ]
+    ],
+    "hasNextPage": false
 }

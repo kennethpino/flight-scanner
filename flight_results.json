@@ -1,0 +1,418 @@
+{
+  "results": [
+    {
+      "search_id": "4c9bdba1-b58b-49fd-6e61-4d46c946b927",
+      "currency": "GBP",
+      "fx_rate": 0.858244,
+      "data": [
+        {
+          "id": "01af1cb24ce80000e6923bfc_0",
+          "flyFrom": "BCN",
+          "flyTo": "BVA",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Paris",
+          "cityCodeTo": "PAR",
+          "countryFrom": {
+            "code": "ES",
+            "name": "Spain"
+          },
+          "countryTo": {
+            "code": "FR",
+            "name": "France"
+          },
+          "local_departure": "2023-11-27T05:50:00.000Z",
+          "utc_departure": "2023-11-27T04:50:00.000Z",
+          "local_arrival": "2023-11-27T07:50:00.000Z",
+          "utc_arrival": "2023-11-27T06:50:00.000Z",
+          "nightsInDest": null,
+          "quality": 46.642647,
+          "distance": 908.07,
+          "duration": {
+            "departure": 7200,
+            "return": 0,
+            "total": 7200
+          },
+          "price": 16,
+          "conversion": {
+            "EUR": 18.642717,
+            "GBP": 16
+          },
+          "fare": {
+            "adults": 16,
+            "children": 16,
+            "infants": 16
+          },
+          "bags_price": {
+            "1": 38.233,
+            "2": 76.466
+          },
+          "baglimit": {
+            "hand_height": 40,
+            "hand_length": 55,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 319,
+            "hold_height": 119,
+            "hold_length": 119,
+            "hold_weight": 20,
+            "hold_width": 81,
+            "personal_item_height": 25,
+            "personal_item_length": 40,
+            "personal_item_weight": 10,
+            "personal_item_width": 20
+          },
+          "availability": {
+            "seats": null
+          },
+          "airlines": [
+            "FR"
+          ],
+          "route": [
+            {
+              "id": "01af1cb24ce80000e6923bfc_0",
+              "combination_id": "01af1cb24ce80000e6923bfc",
+              "flyFrom": "BCN",
+              "flyTo": "BVA",
+              "cityFrom": "Barcelona",
+              "cityCodeFrom": "BCN",
+              "cityTo": "Paris",
+              "cityCodeTo": "PAR",
+              "local_departure": "2023-11-27T05:50:00.000Z",
+              "utc_departure": "2023-11-27T04:50:00.000Z",
+              "local_arrival": "2023-11-27T07:50:00.000Z",
+              "utc_arrival": "2023-11-27T06:50:00.000Z",
+              "airline": "FR",
+              "flight_no": 3121,
+              "operating_carrier": "",
+              "operating_flight_no": "",
+              "fare_basis": "",
+              "fare_category": "M",
+              "fare_classes": "",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": false,
+              "vi_connection": false,
+              "guarantee": false,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            }
+          ],
+          "booking_token": "GYeewTWMifY5gXbx5zrCrZ5-PuKQ51MK84p2f1lQMYiu43CgrzFlw6DJzjqAM1iQ9UwGSoxt3YH9XBXGWk2KKLv7XBO21-viLpjJx9hcno0wUxo5_FS1Bv4vTnLTEmH1D5vYOELtObr66832uWvbfWhRpe02JAjPpS3vNcu-72I7t35qo7zWg3TMIJKWDmi7DM3aS2rHR5dvr1MK8YSsR6mqmqaBiSC93Efe26-i8D80Abg7_DV9j2tWoL1k4zmPQ5CAIWUuj0KBYzahQ1gNAB5KGGShQupHPL5zNJrqIdTFv4i48w3QxVMq6cxNT2ZWU5C4Goplo-FzH6wiv1myIteUngHjjRZRRHt6R9LyYaLiUfmVf3jfDfa9F478tuGUZQb2RDLucXJs46Urz1Jg11YYnFV_6Pccxr_L_ySsBI44laxMsmqFyAM9bce0FogtS",
+          "deep_link": "https://www.kiwi.com/deep?affilid=kenpinoflightsearch\u0026currency=GBP\u0026flightsId=01af1cb24ce80000e6923bfc_0\u0026from=BCN\u0026lang=en\u0026passengers=1\u0026to=BVA\u0026booking_token=GYeewTWMifY5gXbx5zrCrZ5-PuKQ51MK84p2f1lQMYiu43CgrzFlw6DJzjqAM1iQ9UwGSoxt3YH9XBXGWk2KKLv7XBO21-viLpjJx9hcno0wUxo5_FS1Bv4vTnLTEmH1D5vYOELtObr66832uWvbfWhRpe02JAjPpS3vNcu-72I7t35qo7zWg3TMIJKWDmi7DM3aS2rHR5dvr1MK8YSsR6mqmqaBiSC93Efe26-i8D80Abg7_DV9j2tWoL1k4zmPQ5CAIWUuj0KBYzahQ1gNAB5KGGShQupHPL5zNJrqIdTFv4i48w3QxVMq6cxNT2ZWU5C4Goplo-FzH6wiv1myIteUngHjjRZRRHt6R9LyYaLiUfmVf3jfDfa9F478tuGUZQb2RDLucXJs46Urz1Jg11YYnFV_6Pccxr_L_ySsBI44laxMsmqFyAM9bce0FogtS",
+          "facilitated_booking_available": false,
+          "pnr_count": 1,
+          "has_airport_change": false,
+          "technical_stops": 0,
+          "throw_away_ticketing": false,
+          "hidden_city_ticketing": false,
+          "virtual_interlining": false
+        }
+      ],
+      "_results": 1
+    },
+    {
+      "search_id": "7c0f6ce6-0988-fc58-783a-2a0b4403dd53",
+      "currency": "GBP",
+      "fx_rate": 0.858244,
+      "data": [
+        {
+          "id": "01af00424cf9000028d8ef88_0",
+          "flyFrom": "BCN",
+          "flyTo": "BER",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Berlin",
+          "cityCodeTo": "BER",
+          "countryFrom": {
+            "code": "ES",
+            "name": "Spain"
+          },
+          "countryTo": {
+            "code": "DE",
+            "name": "Germany"
+          },
+          "local_departure": "2023-12-14T17:50:00.000Z",
+          "utc_departure": "2023-12-14T16:50:00.000Z",
+          "local_arrival": "2023-12-14T20:30:00.000Z",
+          "utc_arrival": "2023-12-14T19:30:00.000Z",
+          "nightsInDest": null,
+          "quality": 55.471476,
+          "distance": 1504.58,
+          "duration": {
+            "departure": 9600,
+            "return": 0,
+            "total": 9600
+          },
+          "price": 19,
+          "conversion": {
+            "EUR": 22.138226,
+            "GBP": 19
+          },
+          "fare": {
+            "adults": 19,
+            "children": 19,
+            "infants": 19
+          },
+          "bags_price": {
+            "1": 56.1
+          },
+          "baglimit": {
+            "hand_height": 40,
+            "hand_length": 55,
+            "hand_weight": 10,
+            "hand_width": 20,
+            "hold_dimensions_sum": 158,
+            "hold_height": 52,
+            "hold_length": 78,
+            "hold_weight": 20,
+            "hold_width": 28,
+            "personal_item_height": 30,
+            "personal_item_length": 40,
+            "personal_item_weight": 10,
+            "personal_item_width": 20
+          },
+          "availability": {
+            "seats": null
+          },
+          "airlines": [
+            "VY"
+          ],
+          "route": [
+            {
+              "id": "01af00424cf9000028d8ef88_0",
+              "combination_id": "01af00424cf9000028d8ef88",
+              "flyFrom": "BCN",
+              "flyTo": "BER",
+              "cityFrom": "Barcelona",
+              "cityCodeFrom": "BCN",
+              "cityTo": "Berlin",
+              "cityCodeTo": "BER",
+              "local_departure": "2023-12-14T17:50:00.000Z",
+              "utc_departure": "2023-12-14T16:50:00.000Z",
+              "local_arrival": "2023-12-14T20:30:00.000Z",
+              "utc_arrival": "2023-12-14T19:30:00.000Z",
+              "airline": "VY",
+              "flight_no": 1884,
+              "operating_carrier": "VY",
+              "operating_flight_no": "1884",
+              "fare_basis": "DOWLPB",
+              "fare_category": "M",
+              "fare_classes": "D",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": false,
+              "vi_connection": false,
+              "guarantee": false,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            }
+          ],
+          "booking_token": "GwaPCItD0Owfcf8qSomZbnFipYT49IloNYcz7epGxqI9jAmDaXWEEPsfcDwvLTo7Pgq4Lstzn1fYnKnkqbc2C_v1i1Mp7n9ELWBGzIHodAcbdm289KK0Bty36YjdKN9hPijf5OtvJCo6W1i_eB0JbI4LqXchdukrRTZ_jDqN4afjzC_84StIgv4LAC_nY9yVvFdZPHHl7Dqppa4lxsurM-62hO3Kov1QSif6LxfgxrW5MRYk4Oe6B1l0hzV6XA8-hnvbSwMEgKamI_HGmy18d4z1msndUEswKCXHbXcRLMmqIa2amSBZrsEM0mQ_rt40n4pD7zupWc7JqhHVzkMIG12SFyWt1gMxHC2lS3ZQ7y41CfSFgEoOEIfnoGBkFdWH8cPs9b_3rcSBxDlM9u2DmRf6qoYnEcvvEwMmFMt2NEkifzVpAN1OBJxWk0J9-jdiL",
+          "deep_link": "https://www.kiwi.com/deep?affilid=kenpinoflightsearch\u0026currency=GBP\u0026flightsId=01af00424cf9000028d8ef88_0\u0026from=BCN\u0026lang=en\u0026passengers=1\u0026to=BER\u0026booking_token=GwaPCItD0Owfcf8qSomZbnFipYT49IloNYcz7epGxqI9jAmDaXWEEPsfcDwvLTo7Pgq4Lstzn1fYnKnkqbc2C_v1i1Mp7n9ELWBGzIHodAcbdm289KK0Bty36YjdKN9hPijf5OtvJCo6W1i_eB0JbI4LqXchdukrRTZ_jDqN4afjzC_84StIgv4LAC_nY9yVvFdZPHHl7Dqppa4lxsurM-62hO3Kov1QSif6LxfgxrW5MRYk4Oe6B1l0hzV6XA8-hnvbSwMEgKamI_HGmy18d4z1msndUEswKCXHbXcRLMmqIa2amSBZrsEM0mQ_rt40n4pD7zupWc7JqhHVzkMIG12SFyWt1gMxHC2lS3ZQ7y41CfSFgEoOEIfnoGBkFdWH8cPs9b_3rcSBxDlM9u2DmRf6qoYnEcvvEwMmFMt2NEkifzVpAN1OBJxWk0J9-jdiL",
+          "facilitated_booking_available": true,
+          "pnr_count": 1,
+          "has_airport_change": false,
+          "technical_stops": 0,
+          "throw_away_ticketing": false,
+          "hidden_city_ticketing": false,
+          "virtual_interlining": false
+        }
+      ],
+      "_results": 1
+    },
+    {
+      "search_id": "b44c9333-9d45-13dd-a781-7b4c77660b8d",
+      "currency": "GBP",
+      "fx_rate": 0.858244,
+      "data": [
+        {
+          "id": "01af0f0c4ca3000010ad2f47_0|0f0c168e4ca30000b6d11ffc_0|168e0a1d4ca300008bc31c2f_0|0a1d10ff4ca400008da7c3ef_0",
+          "flyFrom": "BCN",
+          "flyTo": "KUL",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Kuala Lumpur",
+          "cityCodeTo": "KUL",
+          "countryFrom": {
+            "code": "ES",
+            "name": "Spain"
+          },
+          "countryTo": {
+            "code": "MY",
+            "name": "Malaysia"
+          },
+          "local_departure": "2023-09-19T07:15:00.000Z",
+          "utc_departure": "2023-09-19T05:15:00.000Z",
+          "local_arrival": "2023-09-20T14:50:00.000Z",
+          "utc_arrival": "2023-09-20T06:50:00.000Z",
+          "nightsInDest": null,
+          "quality": 483.490012,
+          "distance": 10619,
+          "duration": {
+            "departure": 92100,
+            "return": 0,
+            "total": 92100
+          },
+          "price": 229,
+          "conversion": {
+            "EUR": 266.823887,
+            "GBP": 229
+          },
+          "fare": {
+            "adults": 229,
+            "children": 229,
+            "infants": 229
+          },
+          "bags_price": {
+            "1": 210.392
+          },
+          "baglimit": {
+            "hold_dimensions_sum": 158,
+            "hold_height": 52,
+            "hold_length": 78,
+            "hold_weight": 20,
+            "hold_width": 28,
+            "personal_item_height": 30,
+            "personal_item_length": 40,
+            "personal_item_weight": 5,
+            "personal_item_width": 15
+          },
+          "availability": {
+            "seats": 3
+          },
+          "airlines": [
+            "VY",
+            "W6",
+            "AK",
+            "3L"
+          ],
+          "route": [
+            {
+              "id": "01af0f0c4ca3000010ad2f47_0",
+              "combination_id": "01af0f0c4ca3000010ad2f47",
+              "flyFrom": "BCN",
+              "flyTo": "FCO",
+              "cityFrom": "Barcelona",
+              "cityCodeFrom": "BCN",
+              "cityTo": "Rome",
+              "cityCodeTo": "ROM",
+              "local_departure": "2023-09-19T07:15:00.000Z",
+              "utc_departure": "2023-09-19T05:15:00.000Z",
+              "local_arrival": "2023-09-19T09:10:00.000Z",
+              "utc_arrival": "2023-09-19T07:10:00.000Z",
+              "airline": "VY",
+              "flight_no": 6100,
+              "operating_carrier": "VY",
+              "operating_flight_no": "6100",
+              "fare_basis": "QOWVYLB",
+              "fare_category": "M",
+              "fare_classes": "Q",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": false,
+              "vi_connection": false,
+              "guarantee": false,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            },
+            {
+              "id": "0f0c168e4ca30000b6d11ffc_0",
+              "combination_id": "0f0c168e4ca30000b6d11ffc",
+              "flyFrom": "FCO",
+              "flyTo": "AUH",
+              "cityFrom": "Rome",
+              "cityCodeFrom": "ROM",
+              "cityTo": "Abu Dhabi",
+              "cityCodeTo": "AUH",
+              "local_departure": "2023-09-19T12:55:00.000Z",
+              "utc_departure": "2023-09-19T10:55:00.000Z",
+              "local_arrival": "2023-09-19T20:50:00.000Z",
+              "utc_arrival": "2023-09-19T16:50:00.000Z",
+              "airline": "W6",
+              "flight_no": 7050,
+              "operating_carrier": "",
+              "operating_flight_no": "",
+              "fare_basis": "PREG",
+              "fare_category": "M",
+              "fare_classes": "P",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": true,
+              "vi_connection": true,
+              "guarantee": true,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            },
+            {
+              "id": "168e0a1d4ca300008bc31c2f_0",
+              "combination_id": "168e0a1d4ca300008bc31c2f",
+              "flyFrom": "AUH",
+              "flyTo": "MAA",
+              "cityFrom": "Abu Dhabi",
+              "cityCodeFrom": "AUH",
+              "cityTo": "Chennai",
+              "cityCodeTo": "MAA",
+              "local_departure": "2023-09-19T23:00:00.000Z",
+              "utc_departure": "2023-09-19T19:00:00.000Z",
+              "local_arrival": "2023-09-20T04:45:00.000Z",
+              "utc_arrival": "2023-09-19T23:15:00.000Z",
+              "airline": "3L",
+              "flight_no": 141,
+              "operating_carrier": "",
+              "operating_flight_no": "",
+              "fare_basis": "",
+              "fare_category": "M",
+              "fare_classes": "",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": true,
+              "vi_connection": true,
+              "guarantee": true,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            },
+            {
+              "id": "0a1d10ff4ca400008da7c3ef_0",
+              "combination_id": "0a1d10ff4ca400008da7c3ef",
+              "flyFrom": "MAA",
+              "flyTo": "KUL",
+              "cityFrom": "Chennai",
+              "cityCodeFrom": "MAA",
+              "cityTo": "Kuala Lumpur",
+              "cityCodeTo": "KUL",
+              "local_departure": "2023-09-20T08:15:00.000Z",
+              "utc_departure": "2023-09-20T02:45:00.000Z",
+              "local_arrival": "2023-09-20T14:50:00.000Z",
+              "utc_arrival": "2023-09-20T06:50:00.000Z",
+              "airline": "AK",
+              "flight_no": 10,
+              "operating_carrier": "AK",
+              "operating_flight_no": "10",
+              "fare_basis": "",
+              "fare_category": "M",
+              "fare_classes": "K",
+              "fare_family": "",
+              "return": 0,
+              "bags_recheck_required": true,
+              "vi_connection": true,
+              "guarantee": true,
+              "equipment": null,
+              "vehicle_type": "aircraft"
+            }
+          ],
+          "booking_token": "GGh1iieWd1QZfacyR_3V9TZ2Gau26OfOVnzYvJ0XgnK_9rR4jpHGQ8wiByz5P20xfFIpDlWZbUE9mu-UX22E74OfBk6IODPm3_peaW8TcSRE345Ve1esrESkM7jR0jP8eUBypmw0YF5O2fs6E9A6_4DUEtiH8e-wHwG6rBQQviWD-m752QgrQtsiFloRTigSfbOwrw2WSkGCn2WRdM4VWubDQxwhgVEDdH5m-brb_Lb4HR8VRpm8M9kE0r7iuAGHDQX_2EtEmgb0KJqDWl99mh4KndJwvFw1XGcZ36cF-UuK3undfnkhbp8infDAS-M0nXIOsShSR2YltWe8SWi4KWAy6LywGCiyzJ7l1LS1zAne88zMYVlNLnnQwqVTy67GW0Ev8u2gnr-7O4ulICGT5esJey7QrJxEGQ3NUCwvP9BWzveaLZXg79TlJsqC47QKeyIkiYRv6XBNPKScAZ3uuNmaIlTK9wO_wqKD4-JPKKYfeAX7lpts-VDaCSNzFKLNv--O5C3v7suJEbu_xagtHHLM17wGoGqBuz2uMGKLRigBL4W7RoVe_fnnsY9dZi6iOWsGyrTMQ7Z4FVx7LBk_szp_4bw6GG4G-GzbBlEd6ndOxZJlG2D_rflN4n_skOLLD1angKP-nh-_FNJjYw9TL7g==",
+          "deep_link": "https://www.kiwi.com/deep?affilid=kenpinoflightsearch\u0026currency=GBP\u0026flightsId=01af0f0c4ca3000010ad2f47_0%7C0f0c168e4ca30000b6d11ffc_0%7C168e0a1d4ca300008bc31c2f_0%7C0a1d10ff4ca400008da7c3ef_0\u0026from=BCN\u0026lang=en\u0026passengers=1\u0026to=KUL\u0026booking_token=GGh1iieWd1QZfacyR_3V9TZ2Gau26OfOVnzYvJ0XgnK_9rR4jpHGQ8wiByz5P20xfFIpDlWZbUE9mu-UX22E74OfBk6IODPm3_peaW8TcSRE345Ve1esrESkM7jR0jP8eUBypmw0YF5O2fs6E9A6_4DUEtiH8e-wHwG6rBQQviWD-m752QgrQtsiFloRTigSfbOwrw2WSkGCn2WRdM4VWubDQxwhgVEDdH5m-brb_Lb4HR8VRpm8M9kE0r7iuAGHDQX_2EtEmgb0KJqDWl99mh4KndJwvFw1XGcZ36cF-UuK3undfnkhbp8infDAS-M0nXIOsShSR2YltWe8SWi4KWAy6LywGCiyzJ7l1LS1zAne88zMYVlNLnnQwqVTy67GW0Ev8u2gnr-7O4ulICGT5esJey7QrJxEGQ3NUCwvP9BWzveaLZXg79TlJsqC47QKeyIkiYRv6XBNPKScAZ3uuNmaIlTK9wO_wqKD4-JPKKYfeAX7lpts-VDaCSNzFKLNv--O5C3v7suJEbu_xagtHHLM17wGoGqBuz2uMGKLRigBL4W7RoVe_fnnsY9dZi6iOWsGyrTMQ7Z4FVx7LBk_szp_4bw6GG4G-GzbBlEd6ndOxZJlG2D_rflN4n_skOLLD1angKP-nh-_FNJjYw9TL7g==",
+          "facilitated_booking_available": false,
+          "pnr_count": 4,
+          "has_airport_change": false,
+          "technical_stops": 0,
+          "throw_away_ticketing": false,
+          "hidden_city_ticketing": false,
+          "virtual_interlining": true
+        }
+      ],
+      "_results": 1
+    }
+  ]
+}

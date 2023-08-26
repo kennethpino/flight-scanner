@@ -1,7 +1,7 @@
 import os
 
 from mobilemessenger import MobileMessenger
-from seachengine import SearchEngine
+from searchengine import SearchEngine
 from spreadsheet import SpreadSheet
 
 FROM_MOBILE = '+18159494549'

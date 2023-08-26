@@ -6,4 +6,3 @@ class Flight:
         self.iata_from = response.json()['data'][0]['route'][0]['flyFrom']
         self.iata_to = response.json()['data'][0]['route'][0]['flyTo']
         self.info = f"Low price alert! Only £{self.price} to fly from {self.city_from}-{self.iata_from} to {self.city_to}-{self.iata_to}"
-

@@ -35,4 +35,3 @@ class SpreadSheet:
         with open('spreadsheet.json', 'w') as file:
             file.write(json.dumps(response.json(), indent=4))
         self.records = response.json()
-

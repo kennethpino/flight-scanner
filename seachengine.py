@@ -43,11 +43,6 @@ class SearchEngine:
             'apikey': self.apikey
         }
 
-        # TO AVOID MANY REQUESTS TO SHEETY I SAVED THE RECORDS ON A JSON FILE AND PULL THE INFO FROM THERE
-        # BUT THE FUNCTIONALITY IS IMPLEMENTED.
-        # with open('spreadsheet.json', 'r') as file:
-        #     spreadsheet_records = json.load(file)
-
         for item in spreadsheet_records['prices']:
             params = {
                 'fly_from': FLY_FROM_IATA,
@@ -61,7 +56,8 @@ class SearchEngine:
             response = requests.get(f'{self.endpoint_location}{self.endpoint_flight_search}', params=params,
                                     headers=headers)
             response.raise_for_status()
+
             flight = Flight(response)
+
             if flight.price < item['lowestPrice']:
                 self.flights.append(flight)
-

@@ -3,56 +3,62 @@
         {
             "City": "Paris",
             "IATA Code": "PAR",
-            "Lowest Price": "20",
+            "Lowest Price": "54",
             "rowIndex": 2
         },
         {
             "City": "Berlin",
             "IATA Code": "BER",
-            "Lowest Price": "20",
+            "Lowest Price": "42",
             "rowIndex": 3
         },
         {
             "City": "Tokyo",
             "IATA Code": "TYO",
-            "Lowest Price": "300",
+            "Lowest Price": "485",
             "rowIndex": 4
         },
         {
             "City": "Sydney",
             "IATA Code": "SYD",
-            "Lowest Price": "400",
+            "Lowest Price": "551",
             "rowIndex": 5
         },
         {
             "City": "Istanbul",
             "IATA Code": "IST",
-            "Lowest Price": "50",
+            "Lowest Price": "95",
             "rowIndex": 6
         },
         {
             "City": "Kuala Lumpur",
             "IATA Code": "KUL",
-            "Lowest Price": "300",
+            "Lowest Price": "414",
             "rowIndex": 7
         },
         {
             "City": "New York",
             "IATA Code": "NYC",
-            "Lowest Price": "200",
+            "Lowest Price": "240",
             "rowIndex": 8
         },
         {
             "City": "San Francisco",
             "IATA Code": "SFO",
-            "Lowest Price": "200",
+            "Lowest Price": "260",
             "rowIndex": 9
         },
         {
             "City": "Cape Town",
             "IATA Code": "CPT",
-            "Lowest Price": "300",
+            "Lowest Price": "378",
             "rowIndex": 10
+        },
+        {
+            "City": "Bali",
+            "IATA Code": "DPS",
+            "Lowest Price": "501",
+            "rowIndex": 11
         }
     ],
     "hasNextPage": false
